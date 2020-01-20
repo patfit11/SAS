@@ -8,13 +8,21 @@ There are a few instances where I used both SAS and R to complete a problem set 
 
 
    Lab 1: Simple Linear Regression
+   
    Lab 2: Multiple Linear Regression Part 1
+   
    Lab 3: Multiple Linear Regression Part 2
+   
    Lab 5: Model Building (Variable Selection)
+   
    HW 3: Multiple Linear Regression & ANOVA Part 1  
+   
    HW 4: Multiple Linear Regression & ANOVA Part 2  
+   
    HW 5: Residuals & Outliers  
+   
    HW 6: Chi-Square & Logistic Regression 
+   
    HW 7: Logistic Regression & Wald Test
   
   
